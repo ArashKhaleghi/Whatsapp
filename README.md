@@ -16,7 +16,7 @@
  # Requirement
  - You must have downloaded selenium Library already.
  - You must have Python version 3.8.5 or higher installed on your computer.
- - You must have Google Chrome version 87.0.4280.66 installed on your computer
+ - You must have Google Chrome version 87.0.4280.66 installed on your computer.
  - It is better to use Cmder software to run on Windows.
  
  # Selenium
